@@ -37,11 +37,14 @@
     "category-general"
   ],
   "dependencies": {
+    "@nativescript-community/sentry": "^2.1.0",
     "@nativescript/core": "~8.0.0",
     "@nativescript/theme": "~3.0.1",
+    "nativescript-extendedinfo": "^1.0.11",
     "nativescript-vue": "~2.9.0"
   },
   "devDependencies": {
+    "@nativescript/android": "8.0.0",
     "@nativescript/webpack": "beta",
     "nativescript-vue-template-compiler": "~2.9.0",
     "sass": "^1.32.8"
